@@ -221,14 +221,24 @@ The Lutheran Church Among Norwegian-Americans: A History of the Evangelical Luth
 
 [A Basic History of Lutheranism in America by Abel Ross Wentz (1955)](https://archive.org/details/basichistoryoflu00went_0/page/n8/mode/1up)
 
+The Lutherans in America by Clifford E. Nelson -- Revised Edition (Fortress Press, 1980)
+
 ### Texas Lutheranism
 [_Geschichte der Ersten Deutsche: Evangelisch-Lutherischen Synode in Texas_ by Johannes Mgebroff (1902)](https://archive.org/details/geschichtederer00mgebgoog/page/n5/mode/1up)
 
-History of the First Evangelical Lutheran Synod of Texas by M. Heinrich (public domain)
-Geschichte der Ersten Evangelischen Lutherischen synode von Texas by Krause (1926) (public domain)
-A Centennial Story of the Lutheran Church in Texas vv. 1-2 (public domain) 
+Geschichte der Ersten Evangelischen Lutherischen synode von Texas by H. Krause (1926)
 
-The Lutherans in America (not public domain)
+[History of the First Evangelical Lutheran Synod of Texas by M. Heinrich. (ca. 1928)](https://archive.org/details/history-of-the-first-evangelical-lutheran-synod-of-texas/page/17/mode/1up)
+
+A Centennial Story of the Lutheran Church in Texas
+
+[Section One: "The Church Was Planted" 1851-1876](https://archive.org/details/a-centennial-story-of-the-lutheran-church-in-texas)
+
+Section Two: "The Church Did Grow" 1876-1951
+
+Striving to Gather the Scattered: The Texas-Louisiana Synod and Its Predecessor Bodies, 1851–1987 by Russell Vardell 
+
+
 
 
 

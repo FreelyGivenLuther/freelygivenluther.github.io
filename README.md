@@ -37,6 +37,10 @@ This inaugural volume of Luther's Works: The Freely Given Edition is dedicated t
 
 This is an unpublished preview of Luther's Heidelberg Disputation that will be included in the future volume of Luther's Works: The Freely Given Edition dedicated to his works of 1518. It is included here so that access to this translation is not significantly delayed by the translation and editing of the other works.
 
+[PREVIEW: Luther's Lecture's on Obadiah (2026)](https://archive.org/details/luthers-work-the-freely-given-edition-obadiah-unpublished-preview/mode/2up)
+
+This is an unpublished preview of Luther's lectures on Obadiah that will be included in the future volume of Luther's Works: The Freely Given Edition dedicated to the Minor Prophets. It is included here so that access to this translation and the associated notes is not significantly delayed by the translation and editing of the other lectures.
+
 ### Henry Cole’s Edition (1826)
 [Volume 1 (1826)](https://archive.org/details/selectworksmart00colegoog/page/n6/mode/2up)
 

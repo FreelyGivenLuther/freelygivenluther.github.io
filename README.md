@@ -28,6 +28,19 @@ This volume contains Luther's _Concerning Christian Liberty_, Exposition of the 
 
 [Volume 4 (1826)](https://books.google.com/books?id=6yBmo80S5DEC&newbks=1&newbks_redir=0&printsec=frontcover#v=onepage&q&f=false) 
 
+### Ohio Edition (1869-1871)
+This is the name I have given these two volumes published from Ohio in the mid-nineteenth century despite them being a collection of Luther's sermons more than anything else. 
+
+[Volume 1 (1869)](https://archive.org/details/drmartinluthersh0002luth/page/n9/mode/1up)
+
+[Second Edition (1884)](https://archive.org/details/Dr.MartinLuthersHouse-postilVol1Ohio1884secondEdition/page/n9/mode/1up) 
+
+[Volume 2 (1871)](https://www.google.com/url?q=https://archive.org/details/drmartinluthersh0002luth_i6o9/page/n6/mode/1up&sa=D&source=docs&ust=1774579108546758&usg=AOvVaw25fMVFo_AABS4pbawAQpJl)
+
+[Second Edition (1884)](https://archive.org/details/Dr.MartinLuthersHouse-postilVol2Ohio1884secondEdition/page/n7/mode/1up)
+
+See also: [_Martin Luther's Church Postil_ (1869)](https://archive.org/details/drmartinluthersc00luth/page/1/mode/1up)
+
 ### St. Louis Edition (1882-1910)
 The St. Louis Edition is a nineteenth century reprinting by the Lutheran Church--Missouri Synod of Walch's eighteenth century collection of Luther's works. Both were published in German, however, [BackToLuther](https://backtoluther.blogspot.com/2022/04/st-louis-edition-digitized-text-now-in.html) has kindly facilitated a machine translation of these works. Naturally, these English translations must be used with some caution, yet they are still a great place to explore Luther's attitude on certain topics and what the context of an event was. The chief value of this English translation is of course its wide scope.
 
@@ -81,15 +94,4 @@ The St. Louis Edition is a nineteenth century reprinting by the Lutheran Church-
 
 [Volume 23 (1910)](https://archive.org/details/st-l-23-deep-l-en)
 
-### Ohio Edition (1869-1871)
-This is the name I have given these two volumes published from Ohio in the mid-nineteenth century despite them being a collection of Luther's sermons more than anything else. 
 
-[Volume 1 (1869)](https://archive.org/details/drmartinluthersh0002luth/page/n9/mode/1up)
-
-[Second Edition (1884)](https://archive.org/details/Dr.MartinLuthersHouse-postilVol1Ohio1884secondEdition/page/n9/mode/1up) 
-
-[Volume 2 (1871)](https://www.google.com/url?q=https://archive.org/details/drmartinluthersh0002luth_i6o9/page/n6/mode/1up&sa=D&source=docs&ust=1774579108546758&usg=AOvVaw25fMVFo_AABS4pbawAQpJl)
-
-[Second Edition (1884)](https://archive.org/details/Dr.MartinLuthersHouse-postilVol2Ohio1884secondEdition/page/n7/mode/1up)
-
-See also: [_Martin Luther's Church Postil_ (1869)](https://archive.org/details/drmartinluthersc00luth/page/1/mode/1up)

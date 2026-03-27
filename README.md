@@ -194,6 +194,10 @@ _Lutheran Women in Ordained Ministry 1970-1995: Reflections and Perspectives_ ed
 
 [Lutheran Council in the USA. The Ordination of Women condensed by Raymond Tiemeyer (1970)](https://womenpriests.org/ecumenism/lutheran2-lutheran-council-in-the-usathe-ordination-of-women-1970/#intro)
 
+## Evangelism
+
+_The Evangelizing Church: A Lutheran Contribution_ edited by Richard Bliese and Craig Gelder (Minneapolis: Augsburg Fortress, 2005)
+
 ## Lutheran History
 For a family tree of most of the Lutheran denominations in America check out the [the illustration I made](https://archive.org/details/tree-of-american-lutheran-denominations/Tree%20of%20American%20Lutheran%20Denominations%20NO%20GRID..pdf).
 
@@ -214,6 +218,8 @@ This work is in the public domain and covers the years 1483-1960.
 [_A Basic History of Lutheranism in America_ by Abel Ross Wentz (1955)](https://archive.org/details/basichistoryoflu00went_0/page/n8/mode/1up)
 
 _The Lutherans in America by Clifford_ E. Nelson -- Revised Edition (Fortress Press, 1980)
+
+_Documents of Lutheran Unity in America_ by Richard Wolf (Philadelphia: Fortress Press, 1966)
 
 ### The Lutheran Church--Missouri Synod (1847- )
 _Preus of Missouri And The Great Lutheran Civil War_ by James E. Adams (New York etc.: Harper & Row, 1977)

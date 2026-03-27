@@ -164,7 +164,7 @@ Contents: Disputation on Indulgences (1517), Treatise on Baptism (1519), Discuss
 
 [Volume 6 (1932)](https://archive.org/details/in.ernet.dli.2015.180138)
 
-## Table Talk
+### Table Talk
 [Dr. Martin Luther’s Divine Discourses At his Table translated by Capt. Henrie Bell (1651)](https://archive.org/details/bim_early-english-books-1641-1700_dris-martini-lutheri-col_luther-martin_1652/page/n2/mode/1up)
 
 [Colloquia Mensalia; or, the Familiar Discourses of Dr. Martin Luther (1791)](https://archive.org/details/bim_eighteenth-century_colloquia-mensalia-or-_luther-martin_1791/page/n1/mode/2up)
@@ -177,12 +177,57 @@ Contents: Disputation on Indulgences (1517), Treatise on Baptism (1519), Discuss
 
 [The table talk of Doctor Martin Luther (1893)](https://archive.org/details/tabletalkofdocto00luth/page/n7/mode/2up)
 
-[Luther’s Table Talk (Companions for a Quiet hour)](https://archive.org/details/tabletalk00luthuoft/page/n1/mode/1up)
+[Companions for a Quiet Hour: Luther’s Table Talk (1800s)](https://archive.org/details/tabletalk00luthuoft/page/n1/mode/1up)
 
 [Luther's Table Talk extracted by McCaulay (1882)](https://archive.org/details/lutherstabletalk0000drma/page/n5/mode/2up)
+
+#### Studies
+[Conversations with Luther: Selections from Recently Published Sources of the Table Talk by Perserved Smith](https://archive.org/details/conversationswit00luth/page/n11/mode/1up)
+
 
 ## Martin Chemnitz (1522-1586)
 
 [Rome: Examined -- Part 1 (2025)](https://wolfmueller.co/rome-examined-part-1-full-text-published/)
+
+## Female Ordination
+Lutheran Women in Ordained Ministry 1970-1995 Reflections and Perspectives
+[Lutheran Council in the USA. The Ordination of Women condensed by Raymond Tiemeyer (1970)](https://womenpriests.org/ecumenism/lutheran2-lutheran-council-in-the-usathe-ordination-of-women-1970/#intro)
+
+
+
+## Lutheran History
+[The Lutheran Church in Colonial America by Lars Qualben (1940)](https://archive.org/details/lutheranchurchin00qual/page/n5/mode/2up)
+
+This work is in the public domain.
+
+[Luther and the Lutheran Church 1483-1960 by Altman Swihart (1960)](https://archive.org/details/lutherlutheranch00swih/page/n7/mode/2up)
+
+This work is in the public domain and covers the years 1483-1960.
+
+[The Confessional History of the Lutheran Church by Richard (1909)](https://archive.org/details/cu31924084658248/page/n7/mode/2up)
+
+[The Augsburg Confession by Reu (1930)](https://archive.org/details/augsburgconfessi0000reuj/page/n5/mode/2up)
+
+{Luther’s German Bible by Reu (1934)](https://archive.org/details/luthersgermanbib00reuj/page/n3/mode/2up)
+
+Luther and His Times by Schwiebert (not public domain)
+
+[Augustana heritage: A History of the Augustana Lutheran Church by Everett Arden (1963)](https://archive.org/details/augustanaheritag00arde/page/n7/mode/2up)
+
+[The Augustana Lutheran Church in America by Oscar N. Olson (1950)](https://archive.org/details/augustanaluthera00olso/page/n7/mode/2up)
+
+The Lutheran Church Among Norwegian-Americans
+
+Texas Lutheranism
+Mgebroff’s History (public domain)
+https://archive.org/details/geschichtederer00mgebgoog/page/n5/mode/1up 
+A Basic History of Lutheranism in America by Abel Ross Wentz (public domain)
+https://archive.org/details/basichistoryoflu00went_0/page/n8/mode/1up 
+History of the First Evangelical Lutheran Synod of Texas by M. Heinrich (public domain)
+Geschichte der Ersten Evangelischen Lutherischen synode von Texas by Krause (1926) (public domain)
+A Centennial Story of the Lutheran Church in Texas vv. 1-2 (public domain) 
+
+The Lutherans in America (not public domain)
+
 
 

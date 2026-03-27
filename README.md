@@ -3,6 +3,26 @@ We are dedicated to sharing the Reformer's works in English without restriction 
 
 ## The Book of Concord
 
+The Three Symbols
+
+The Augsburg Confession
+
+The Apology to the Augsburg Confession
+
+The Smalcald Articles
+
+Power and Primacy of the Pope
+
+The Small Catechism
+
+The Large Catechism
+
+The Epitome of Concord
+
+Formula of Concord -- Solid Declaration
+
+These works have also been formatted into a single volume: _The Book of Concord_ 
+
 ## Luther's Works
 [Luther's Brief Explanations](https://archive.org/details/luthers-brief-explanations).
 
@@ -93,5 +113,18 @@ The St. Louis Edition is a nineteenth century reprinting by the Lutheran Church-
 [Volume 22 (1887)](https://archive.org/details/st-l-22-deep-l-en)
 
 [Volume 23 (1910)](https://archive.org/details/st-l-23-deep-l-en)
+
+### The Philadelphia Edition ()
+[Volume 1 (1915)](https://archive.org/details/worksofmartinlut01luth/page/n5/mode/2up)
+[Volume 2 (1916)](https://archive.org/details/worksofmartinlut02luth/page/n5/mode/2up)
+[Volume 3 (1930)](https://archive.org/details/worksofmartinlut0iiiintr/page/n7/mode/2up)
+[Volume 4 (1931)](https://archive.org/details/in.ernet.dli.2015.75685/page/n13/mode/2up)
+[Volume 5 (1931)](https://archive.org/details/in.ernet.dli.2015.58313/page/n9/mode/2up)
+[Volume 6 (1932)](https://archive.org/details/in.ernet.dli.2015.180138)
+
+
+## Martin Chemnitz (1522-1586)
+
+[Rome: Examined -- Part 1 (2025)](https://wolfmueller.co/rome-examined-part-1-full-text-published/)
 
 

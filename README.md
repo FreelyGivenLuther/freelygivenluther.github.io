@@ -219,11 +219,11 @@ Luther and His Times: The Reformation from a New Perspective by Ernest Schwieber
 
 The Lutheran Church Among Norwegian-Americans: A History of the Evangelical Lutheran Church by E. Clifford Nelson (Minneapolis: Augsburg Publishing House, 1960)
 
-Texas Lutheranism
-Mgebroff’s History (public domain)
-https://archive.org/details/geschichtederer00mgebgoog/page/n5/mode/1up 
-A Basic History of Lutheranism in America by Abel Ross Wentz (public domain)
-https://archive.org/details/basichistoryoflu00went_0/page/n8/mode/1up 
+[A Basic History of Lutheranism in America by Abel Ross Wentz (1955)](https://archive.org/details/basichistoryoflu00went_0/page/n8/mode/1up)
+
+### Texas Lutheranism
+[_Geschichte der Ersten Deutsche: Evangelisch-Lutherischen Synode in Texas_ by Johannes Mgebroff (1902)](https://archive.org/details/geschichtederer00mgebgoog/page/n5/mode/1up)
+
 History of the First Evangelical Lutheran Synod of Texas by M. Heinrich (public domain)
 Geschichte der Ersten Evangelischen Lutherischen synode von Texas by Krause (1926) (public domain)
 A Centennial Story of the Lutheran Church in Texas vv. 1-2 (public domain) 

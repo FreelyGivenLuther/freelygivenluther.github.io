@@ -191,6 +191,7 @@ Contents: Disputation on Indulgences (1517), Treatise on Baptism (1519), Discuss
 
 ## Female Ordination
 Lutheran Women in Ordained Ministry 1970-1995 Reflections and Perspectives
+
 [Lutheran Council in the USA. The Ordination of Women condensed by Raymond Tiemeyer (1970)](https://womenpriests.org/ecumenism/lutheran2-lutheran-council-in-the-usathe-ordination-of-women-1970/#intro)
 
 
@@ -208,9 +209,9 @@ This work is in the public domain and covers the years 1483-1960.
 
 [The Augsburg Confession by Reu (1930)](https://archive.org/details/augsburgconfessi0000reuj/page/n5/mode/2up)
 
-{Luther’s German Bible by Reu (1934)](https://archive.org/details/luthersgermanbib00reuj/page/n3/mode/2up)
+[Luther’s German Bible by Reu (1934)](https://archive.org/details/luthersgermanbib00reuj/page/n3/mode/2up)
 
-Luther and His Times by Schwiebert (not public domain)
+Luther and His Times: The Reformation from a New Perspective by Ernest Schwiebert (St. Louis: Concordia Publishing House, 1950)
 
 [Augustana heritage: A History of the Augustana Lutheran Church by Everett Arden (1963)](https://archive.org/details/augustanaheritag00arde/page/n7/mode/2up)
 

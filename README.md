@@ -116,12 +116,18 @@ The St. Louis Edition is a nineteenth century reprinting by the Lutheran Church-
 
 ### The Philadelphia Edition ()
 [Volume 1 (1915)](https://archive.org/details/worksofmartinlut01luth/page/n5/mode/2up)
-[Volume 2 (1916)](https://archive.org/details/worksofmartinlut02luth/page/n5/mode/2up)
-[Volume 3 (1930)](https://archive.org/details/worksofmartinlut0iiiintr/page/n7/mode/2up)
-[Volume 4 (1931)](https://archive.org/details/in.ernet.dli.2015.75685/page/n13/mode/2up)
-[Volume 5 (1931)](https://archive.org/details/in.ernet.dli.2015.58313/page/n9/mode/2up)
-[Volume 6 (1932)](https://archive.org/details/in.ernet.dli.2015.180138)
 
+Contents: Disputation on Indulgences (1517), Treatise on Baptism (1519), Discussion of Confession (1520), The Fourteen of Consolation (1520), Treatise on Good Works (1520), Treatise on the New Testament (1520), The Papacy at Rome (1520). Includes an Index
+
+[Volume 2 (1916)](https://archive.org/details/worksofmartinlut02luth/page/n5/mode/2up)
+
+[Volume 3 (1930)](https://archive.org/details/worksofmartinlut0iiiintr/page/n7/mode/2up)
+
+[Volume 4 (1931)](https://archive.org/details/in.ernet.dli.2015.75685/page/n13/mode/2up)
+
+[Volume 5 (1931)](https://archive.org/details/in.ernet.dli.2015.58313/page/n9/mode/2up)
+
+[Volume 6 (1932)](https://archive.org/details/in.ernet.dli.2015.180138)
 
 ## Martin Chemnitz (1522-1586)
 

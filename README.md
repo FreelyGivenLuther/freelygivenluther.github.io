@@ -23,7 +23,7 @@ Formula of Concord -- Solid Declaration
 
 These works have also been formatted into a single volume: _The Book of Concord_ 
 
-## Luther's Works
+## Luther's Works (1483-1546)
 [Luther's Brief Explanations](https://archive.org/details/luthers-brief-explanations).
 
 In his Brief Explanations Luther concisely explains the sum and substance of Christ's teaching. He first addresses the accusation of the Law in the Ten Commandments. Luther then shows how the Apostles' Creed tells us whom help comes from. Finally, the Lord's Prayer is a model prayer for seeking grace.
@@ -118,7 +118,7 @@ The St. Louis Edition is a nineteenth century reprinting by the Lutheran Church-
 
 [Volume 23 (1910)](https://archive.org/details/st-l-23-deep-l-en)
 
-### The Philadelphia Edition ()
+### The Philadelphia Edition (1915-1932)
 [Volume 1 (1915)](https://archive.org/details/worksofmartinlut01luth/page/n5/mode/2up)
 
 Contents: Disputation on Indulgences (1517), Treatise on Baptism (1519), Discussion of Confession (1520), The Fourteen of Consolation (1520), Treatise on Good Works (1520), Treatise on the New Testament (1520), The Papacy at Rome (1520). Includes an Index
@@ -132,6 +132,38 @@ Contents: Disputation on Indulgences (1517), Treatise on Baptism (1519), Discuss
 [Volume 5 (1931)](https://archive.org/details/in.ernet.dli.2015.58313/page/n9/mode/2up)
 
 [Volume 6 (1932)](https://archive.org/details/in.ernet.dli.2015.180138)
+
+### Standard Edition of Luther’s Works ()
+John Lenker's translations were published posthumously under what was to be a standard numbering systems for the volumes. However, he was either not able to complete his organization before his death or the interest in his works ended. This has resulted in gaps in the numbering and a very confusing system. For example, _Luther's Catechetical Writings_ is considered Volume 24. Yet there are obviously not that many. Later users have adapted the system to make more sense as it is listed here. Between the definite positioning of volume 1 (Commentary on the First Twenty-two Psalms) and Luther's sermons, the other published volumes were placed despite that not being their intended location. This, however, creates a continuous numbering of the volumes.
+
+Volume Commentary on the First Twenty-two Psalms 
+https://archive.org/details/lutherscommentar01luth/page/n5/mode/2up 
+Commentary on Genesis 1-3
+https://archive.org/details/LutherOnTheCreationACriticalAndDevotionalCommentaryOnGenesis1-3/mode/1up 
+Commentary on Genesis 4-9 
+https://archive.org/details/commentaryongene02luth/page/10/mode/2up 
+Luther’s Catechetical Writings
+https://archive.org/details/lutherscatecheti00luth/page/n3/mode/2up 
+Large Catechism
+https://archive.org/details/lutherslargecate01luth/page/n1/mode/2up 
+Two Catechisms explained
+https://archive.org/details/lutherstwocatec00luthgoog/page/n2/mode/2up 
+Epistle Sermons: Advent and Christmas Season 
+https://archive.org/details/precioussacredwr07luth/page/n3/mode/2up 
+Epistle Sermons: Epiphany, Easter, and Pentecost
+https://archive.org/details/precioussacredwr08luth/page/n3/mode/2up 
+Epistle Sermons: Trinity Sunday to Advent
+https://archive.org/details/precioussacredwr09luth/page/n3/mode/2up 
+Church Postil: Gospels: Advent, Christmas & Epiphany
+https://archive.org/details/precioussacredwr10luth/page/n5/mode/2up 
+Church Postil: Gospels: Epiphany, Lent, and Easter Seasons
+https://archive.org/details/precioussacredwr11luth/page/n5/mode/1up
+Church Postil: Gospels: Pentecost or Missionary Sermons
+https://books.google.com/books?id=TBdNAQAAMAAJ&newbks=1&newbks_redir=0&printsec=frontcover#v=onepage&q&f=false 
+Church Postil: Gospels: First to Twelfth Sunday after Trinity
+https://archive.org/details/precioussacredwr13luth/page/n5/mode/1up 
+Church Postil: Gospels: Thirteenth to Twenty-Sixth Sunday after Trinity
+https://archive.org/details/precioussacredwr14luth/page/n5/mode/2up 
 
 ## Martin Chemnitz (1522-1586)
 

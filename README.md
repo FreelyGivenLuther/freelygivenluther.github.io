@@ -165,32 +165,32 @@ Contents: Disputation on Indulgences (1517), Treatise on Baptism (1519), Discuss
 [Volume 6 (1932)](https://archive.org/details/in.ernet.dli.2015.180138)
 
 ### Table Talk
-[Dr. Martin Luther’s Divine Discourses At his Table translated by Capt. Henrie Bell (1651)](https://archive.org/details/bim_early-english-books-1641-1700_dris-martini-lutheri-col_luther-martin_1652/page/n2/mode/1up)
+[_Dr. Martin Luther’s Divine Discourses at his Table_ translated by Capt. Henrie Bell (1651)](https://archive.org/details/bim_early-english-books-1641-1700_dris-martini-lutheri-col_luther-martin_1652/page/n2/mode/1up)
 
-[Colloquia Mensalia; or, the Familiar Discourses of Dr. Martin Luther (1791)](https://archive.org/details/bim_eighteenth-century_colloquia-mensalia-or-_luther-martin_1791/page/n1/mode/2up)
+[_Colloquia Mensalia; or, the Familiar Discourses of Dr. Martin Luther_ (1791)](https://archive.org/details/bim_eighteenth-century_colloquia-mensalia-or-_luther-martin_1791/page/n1/mode/2up)
 
-[The familiar discourses of Dr. Martin Luther by Capt. Henry Bell (1818)](https://archive.org/details/familiardiscours00luth/page/n7/mode/2up)
+[_The Familiar Discourses of Dr. Martin Luther_ by Capt. Henry Bell (1818)](https://archive.org/details/familiardiscours00luth/page/n7/mode/2up)
 
-[Selections from the Table talk of Martin Luther translated by Capt. Henry Bell (1886)](https://archive.org/details/selectionsfromta00luthuoft/page/n5/mode/2up)
+[_Selections from the Table Talk of Martin Luther_ translated by Capt. Henry Bell (1886)](https://archive.org/details/selectionsfromta00luthuoft/page/n5/mode/2up)
 
-[The Table Talk of Martin Luther by Hazlitt (1857)](https://archive.org/details/tabletalkmartin00hazlgoog/page/n8/mode/2up)
+[_The Table Talk of Martin Luther_ by Hazlitt (1857)](https://archive.org/details/tabletalkmartin00hazlgoog/page/n8/mode/2up)
 
-[The table talk of Doctor Martin Luther (1893)](https://archive.org/details/tabletalkofdocto00luth/page/n7/mode/2up)
+[_The Table Talk of Doctor Martin Luther_ (1893)](https://archive.org/details/tabletalkofdocto00luth/page/n7/mode/2up)
 
-[Companions for a Quiet Hour: Luther’s Table Talk (1800s)](https://archive.org/details/tabletalk00luthuoft/page/n1/mode/1up)
+[_Companions for a Quiet Hour: Luther’s Table Talk_ (1800s)](https://archive.org/details/tabletalk00luthuoft/page/n1/mode/1up)
 
-[Luther's Table Talk extracted by McCaulay (1882)](https://archive.org/details/lutherstabletalk0000drma/page/n5/mode/2up)
+[_Luther's Table Talk_ extracted by McCaulay (1882)](https://archive.org/details/lutherstabletalk0000drma/page/n5/mode/2up)
 
 #### Studies
-[Conversations with Luther: Selections from Recently Published Sources of the Table Talk by Perserved Smith](https://archive.org/details/conversationswit00luth/page/n11/mode/1up)
+[_Conversations with Luther: Selections from Recently Published Sources of the Table Talk_ by Perserved Smith](https://archive.org/details/conversationswit00luth/page/n11/mode/1up)
 
 
 ## Martin Chemnitz (1522-1586)
 
-[Rome: Examined -- Part 1 (2025)](https://wolfmueller.co/rome-examined-part-1-full-text-published/)
+[_Rome: Examined_ -- Part 1 (2025)](https://wolfmueller.co/rome-examined-part-1-full-text-published/)
 
 ## Female Ordination
-Lutheran Women in Ordained Ministry 1970-1995 Reflections and Perspectives edited by Gloria Bengtson (Minneapolis: Augsburg, 1995)
+_Lutheran Women in Ordained Ministry 1970-1995: Reflections and Perspectives_ edited by Gloria Bengtson (Minneapolis: Augsburg, 1995)
 
 [Lutheran Council in the USA. The Ordination of Women condensed by Raymond Tiemeyer (1970)](https://womenpriests.org/ecumenism/lutheran2-lutheran-council-in-the-usathe-ordination-of-women-1970/#intro)
 
@@ -199,52 +199,55 @@ For a family tree of most of the Lutheran denominations in America check out the
 
 ### General
 
-Luther and His Times: The Reformation from a New Perspective by Ernest Schwiebert (St. Louis: Concordia Publishing House, 1950)
+_Luther and His Times: The Reformation from a New Perspective_ by Ernest Schwiebert (St. Louis: Concordia Publishing House, 1950)
 
-[Luther and the Lutheran Church 1483-1960 by Altman Swihart (1960)](https://archive.org/details/lutherlutheranch00swih/page/n7/mode/2up)
+[_Luther and the Lutheran Church 1483-1960_ by Altman Swihart (1960)](https://archive.org/details/lutherlutheranch00swih/page/n7/mode/2up)
 
 This work is in the public domain and covers the years 1483-1960.
 
-[The Confessional History of the Lutheran Church by Richard (1909)](https://archive.org/details/cu31924084658248/page/n7/mode/2up)
+[_The Confessional History of the Lutheran Church_ by Richard (1909)](https://archive.org/details/cu31924084658248/page/n7/mode/2up)
 
-[Luther’s German Bible by Reu (1934)](https://archive.org/details/luthersgermanbib00reuj/page/n3/mode/2up)
+[_Luther’s German Bible_ by M. Reu (1934)](https://archive.org/details/luthersgermanbib00reuj/page/n3/mode/2up)
 
-[The Augsburg Confession by Reu (1930)](https://archive.org/details/augsburgconfessi0000reuj/page/n5/mode/2up)
+[_The Augsburg Confession_ by M. Reu (1930)](https://archive.org/details/augsburgconfessi0000reuj/page/n5/mode/2up)
 
-[A Basic History of Lutheranism in America by Abel Ross Wentz (1955)](https://archive.org/details/basichistoryoflu00went_0/page/n8/mode/1up)
+[_A Basic History of Lutheranism in America_ by Abel Ross Wentz (1955)](https://archive.org/details/basichistoryoflu00went_0/page/n8/mode/1up)
 
-The Lutherans in America by Clifford E. Nelson -- Revised Edition (Fortress Press, 1980)
+_The Lutherans in America by Clifford_ E. Nelson -- Revised Edition (Fortress Press, 1980)
+
+### The Lutheran Church--Missouri Synod (1847- )
+_Preus of Missouri And The Great Lutheran Civil War_ by James E. Adams (New York etc.: Harper & Row, 1977)
 
 ### Colonial America
 
-[The Lutheran Church in Colonial America by Lars Qualben (1940)](https://archive.org/details/lutheranchurchin00qual/page/n5/mode/2up)
+[_The Lutheran Church in Colonial America_ by Lars Qualben (1940)](https://archive.org/details/lutheranchurchin00qual/page/n5/mode/2up)
 
 ### Lutheran Church in America (1962-1987)
-Commitment to Unity: A History of the Lutheran Church in America by W. Kent Gilbert (Philadelphia: Fortress Press, 1988)
+_Commitment to Unity: A History of the Lutheran Church in America_ by W. Kent Gilbert (Philadelphia: Fortress Press, 1988)
 
 ### Augustana (1860-1961) 
-[Augustana heritage: A History of the Augustana Lutheran Church by Everett Arden (1963)](https://archive.org/details/augustanaheritag00arde/page/n7/mode/2up)
+[_Augustana heritage: A History of the Augustana Lutheran Church_ by Everett Arden (1963)](https://archive.org/details/augustanaheritag00arde/page/n7/mode/2up)
 
-[The Augustana Lutheran Church in America by Oscar N. Olson (1950)](https://archive.org/details/augustanaluthera00olso/page/n7/mode/2up)
+[_The Augustana Lutheran Church in America_ by Oscar N. Olson (1950)](https://archive.org/details/augustanaluthera00olso/page/n7/mode/2up)
 
 ### The Evangelical Lutheran Church (1917-1959)
 
-The Lutheran Church Among Norwegian-Americans: A History of the Evangelical Lutheran Church by E. Clifford Nelson (Minneapolis: Augsburg Publishing House, 1960)
+_The Lutheran Church Among Norwegian-Americans: A History of the Evangelical Lutheran Church_ by E. Clifford Nelson (Minneapolis: Augsburg Publishing House, 1960)
 
 ### Texas Lutheranism
 [_Geschichte der Ersten Deutsche: Evangelisch-Lutherischen Synode in Texas_ by Johannes Mgebroff (1902)](https://archive.org/details/geschichtederer00mgebgoog/page/n5/mode/1up)
 
-Geschichte der Ersten Evangelischen Lutherischen synode von Texas by H. Krause (1926)
+_Geschichte der Ersten Evangelischen Lutherischen synode von Texas_ by H. Krause (1926)
 
-[History of the First Evangelical Lutheran Synod of Texas by M. Heinrich. (ca. 1928)](https://archive.org/details/history-of-the-first-evangelical-lutheran-synod-of-texas/page/17/mode/1up)
+[_History of the First Evangelical Lutheran Synod of Texas_ by M. Heinrich. (ca. 1928)](https://archive.org/details/history-of-the-first-evangelical-lutheran-synod-of-texas/page/17/mode/1up)
 
-A Centennial Story of the Lutheran Church in Texas
+_A Centennial Story of the Lutheran Church in Texas_
 
 [Section One: "The Church Was Planted" 1851-1876](https://archive.org/details/a-centennial-story-of-the-lutheran-church-in-texas)
 
 Section Two: "The Church Did Grow" 1876-1951
 
-Striving to Gather the Scattered: The Texas-Louisiana Synod and Its Predecessor Bodies, 1851–1987 by Russell Vardell 
+_Striving to Gather the Scattered: The Texas-Louisiana Synod and Its Predecessor Bodies_, 1851–1987 by Russell Vardell 
 
 
 

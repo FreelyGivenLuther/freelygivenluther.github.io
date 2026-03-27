@@ -133,8 +133,8 @@ Contents: Disputation on Indulgences (1517), Treatise on Baptism (1519), Discuss
 
 [Volume 6 (1932)](https://archive.org/details/in.ernet.dli.2015.180138)
 
-### Standard Edition of Luther’s Works ()
-John Lenker's translations were published posthumously under what was to be a standard numbering systems for the volumes. However, he was either not able to complete his organization before his death or the interest in his works ended. This has resulted in gaps in the numbering and a very confusing system. For example, _Luther's Catechetical Writings_ is considered Volume 24. Yet there are obviously not that many. Later users have adapted the system to make more sense as it is listed here. Between the definite positioning of volume 1 (Commentary on the First Twenty-two Psalms) and Luther's sermons, the other published volumes were placed despite that not being their intended location. This, however, creates a continuous numbering of the volumes.
+### Standard Edition of Luther’s Works (1903-1910)
+John Lenker's (1858-1929) translations were published posthumously under what was to be a standard numbering systems for the volumes. However, he was either not able to complete his organization before his death or the interest in his works ended. This has resulted in gaps in the numbering and a very confusing system. For example, _Luther's Catechetical Writings_ is considered Volume 24. Yet there are obviously not that many. Later users have adapted the system to make more sense as it is listed here. Between the definite positioning of volume 1 (Commentary on the First Twenty-two Psalms) and Luther's sermons, the other published volumes were placed despite that not being their intended location. This, however, creates a continuous numbering of the volumes.
 
 [Volume 1: Commentary on the First Twenty-two Psalms (1903)](https://archive.org/details/lutherscommentar01luth/page/n5/mode/2up)
 
@@ -149,7 +149,7 @@ John Lenker's translations were published posthumously under what was to be a st
 [Volume 6: Two Catechisms explained (1908)](https://archive.org/details/lutherstwocatec00luthgoog/page/n2/mode/2up)
 
 [Volume 7: Epistle Sermons: Advent and Christmas Season (1908)](https://archive.org/details/precioussacredwr07luth/page/n3/mode/2up)
-\
+
 [Volume 8: Epistle Sermons: Epiphany, Easter, and Pentecost (1909)](https://archive.org/details/precioussacredwr08luth/page/n3/mode/2up)
 
 [Volume 9: Epistle Sermons: Trinity Sunday to Advent (1909)](https://archive.org/details/precioussacredwr09luth/page/n3/mode/2up)

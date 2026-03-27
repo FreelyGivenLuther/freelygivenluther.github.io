@@ -216,7 +216,7 @@ Luther and His Times by Schwiebert (not public domain)
 
 [The Augustana Lutheran Church in America by Oscar N. Olson (1950)](https://archive.org/details/augustanaluthera00olso/page/n7/mode/2up)
 
-The Lutheran Church Among Norwegian-Americans
+The Lutheran Church Among Norwegian-Americans: A History of the Evangelical Lutheran Church by E. Clifford Nelson (Minneapolis: Augsburg Publishing House, 1960)
 
 Texas Lutheranism
 Mgebroff’s History (public domain)

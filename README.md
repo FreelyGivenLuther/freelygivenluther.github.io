@@ -118,21 +118,6 @@ The St. Louis Edition is a nineteenth century reprinting by the Lutheran Church-
 
 [Volume 23 (1910)](https://archive.org/details/st-l-23-deep-l-en)
 
-### The Philadelphia Edition (1915-1932)
-[Volume 1 (1915)](https://archive.org/details/worksofmartinlut01luth/page/n5/mode/2up)
-
-Contents: Disputation on Indulgences (1517), Treatise on Baptism (1519), Discussion of Confession (1520), The Fourteen of Consolation (1520), Treatise on Good Works (1520), Treatise on the New Testament (1520), The Papacy at Rome (1520). Includes an Index
-
-[Volume 2 (1916)](https://archive.org/details/worksofmartinlut02luth/page/n5/mode/2up)
-
-[Volume 3 (1930)](https://archive.org/details/worksofmartinlut0iiiintr/page/n7/mode/2up)
-
-[Volume 4 (1931)](https://archive.org/details/in.ernet.dli.2015.75685/page/n13/mode/2up)
-
-[Volume 5 (1931)](https://archive.org/details/in.ernet.dli.2015.58313/page/n9/mode/2up)
-
-[Volume 6 (1932)](https://archive.org/details/in.ernet.dli.2015.180138)
-
 ### Standard Edition of Luther’s Works (1903-1910)
 John Lenker's (1858-1929) translations were published posthumously under what was to be a standard numbering systems for the volumes. However, he was either not able to complete his organization before his death or the interest in his works ended. This has resulted in gaps in the numbering and a very confusing system. For example, _Luther's Catechetical Writings_ is considered Volume 24. Yet there are obviously not that many. Later users have adapted the system to make more sense as it is listed here. Between the definite positioning of volume 1 (Commentary on the First Twenty-two Psalms) and Luther's sermons, the other published volumes were placed despite that not being their intended location. This, however, creates a continuous numbering of the volumes.
 
@@ -163,6 +148,38 @@ John Lenker's (1858-1929) translations were published posthumously under what wa
 [Volume 13: Church Postil: Gospels: First to Twelfth Sunday after Trinity (1904)](https://archive.org/details/precioussacredwr13luth/page/n5/mode/1up)
 
 [Volume 14: Church Postil: Gospels: Thirteenth to Twenty-Sixth Sunday after Trinity (1905)](https://archive.org/details/precioussacredwr14luth/page/n5/mode/2up)
+
+### The Philadelphia Edition (1915-1932)
+[Volume 1 (1915)](https://archive.org/details/worksofmartinlut01luth/page/n5/mode/2up)
+
+Contents: Disputation on Indulgences (1517), Treatise on Baptism (1519), Discussion of Confession (1520), The Fourteen of Consolation (1520), Treatise on Good Works (1520), Treatise on the New Testament (1520), The Papacy at Rome (1520). Includes an Index
+
+[Volume 2 (1916)](https://archive.org/details/worksofmartinlut02luth/page/n5/mode/2up)
+
+[Volume 3 (1930)](https://archive.org/details/worksofmartinlut0iiiintr/page/n7/mode/2up)
+
+[Volume 4 (1931)](https://archive.org/details/in.ernet.dli.2015.75685/page/n13/mode/2up)
+
+[Volume 5 (1931)](https://archive.org/details/in.ernet.dli.2015.58313/page/n9/mode/2up)
+
+[Volume 6 (1932)](https://archive.org/details/in.ernet.dli.2015.180138)
+
+## Table Talk
+[Dr. Martin Luther’s Divine Discourses At his Table translated by Capt. Henrie Bell (1651)](https://archive.org/details/bim_early-english-books-1641-1700_dris-martini-lutheri-col_luther-martin_1652/page/n2/mode/1up)
+
+[Colloquia Mensalia; or, the Familiar Discourses of Dr. Martin Luther (1791)](https://archive.org/details/bim_eighteenth-century_colloquia-mensalia-or-_luther-martin_1791/page/n1/mode/2up)
+
+[The familiar discourses of Dr. Martin Luther by Capt. Henry Bell (1818)](https://archive.org/details/familiardiscours00luth/page/n7/mode/2up)
+
+[Selections from the Table talk of Martin Luther translated by Capt. Henry Bell (1886)](https://archive.org/details/selectionsfromta00luthuoft/page/n5/mode/2up)
+
+[The Table Talk of Martin Luther by Hazlitt (1857)](https://archive.org/details/tabletalkmartin00hazlgoog/page/n8/mode/2up)
+
+[The table talk of Doctor Martin Luther (1893)](https://archive.org/details/tabletalkofdocto00luth/page/n7/mode/2up)
+
+[Luther’s Table Talk (Companions for a Quiet hour)](https://archive.org/details/tabletalk00luthuoft/page/n1/mode/1up)
+
+[Luther's Table Talk extracted by McCaulay (1882)](https://archive.org/details/lutherstabletalk0000drma/page/n5/mode/2up)
 
 ## Martin Chemnitz (1522-1586)
 

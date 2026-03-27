@@ -222,6 +222,14 @@ _Preus of Missouri And The Great Lutheran Civil War_ by James E. Adams (New York
 
 [_The Lutheran Church in Colonial America_ by Lars Qualben (1940)](https://archive.org/details/lutheranchurchin00qual/page/n5/mode/2up)
 
+### Evangelical Lutheran Church in America (1988- )
+
+_Anatomy of a Merger: People, Dynamics, and Desicions that Shaped the ELCA_ by Edgar Trexler (Minneapolis: Augsburg, 1991)
+
+_High Expectations: Understanding the ELCA's Early Years, 1988-2002_ by Edgar Trexler (Minneapolis: Augsburg Fortress, 2003)
+
+_A Dream Eclipsed: The Fractured Quest for Greater Lutheran Unity_ by Lowell G. Almen (Minneapolis: Fortress Press, 2025)
+
 ### Lutheran Church in America (1962-1987)
 _Commitment to Unity: A History of the Lutheran Church in America_ by W. Kent Gilbert (Philadelphia: Fortress Press, 1988)
 

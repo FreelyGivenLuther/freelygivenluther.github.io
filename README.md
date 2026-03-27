@@ -8,7 +8,7 @@ We are dedicated to sharing the Reformer's works in English without restriction 
 
 In his Brief Explanations Luther concisely explains the sum and substance of Christ's teaching. He first addresses the accusation of the Law in the Ten Commandments. Luther then shows how the Apostles' Creed tells us whom help comes from. Finally, the Lord's Prayer is a model prayer for seeking grace.
 
-### Luther's Works: The Freely Given Edition
+### Luther's Works: The Freely Given Edition (2025- )
 [Volume 1519<sup>I</sup>:Tessaradecas Consolatoria](https://archive.org/details/luthers-works-freely-given-edition-volume-1/LuthersWorksFreelyGiven1519Part1Updated/)
 
 This inaugural volume of Luther's Works: The Freely Given Edition is dedicated to a deeper understanding of _The Fourteen of Consolation_ (1519) and answers new questions of influence, timing, and language by its thorough introduction and notes.
@@ -17,19 +17,19 @@ This inaugural volume of Luther's Works: The Freely Given Edition is dedicated t
 
 This is an unpublished preview of Luther's Heidelberg Disputation that will be included in the future volume of Luther's Works: The Freely Given Edition dedicated to his works of 1518. It is included here so that access to this translation is not significantly delayed by the translation and editing of the other works.
 
-### Henry Cole’s Edition
+### Henry Cole’s Edition (1826)
 [Volume 1 (1826)](https://archive.org/details/selectworksmart00colegoog/page/n6/mode/2up)
 
 This volume contains Luther's _Concerning Christian Liberty_, Exposition of the Fifty-First Psalm, Selections from his Preface to Romans, Commentary on Galatians, Commentary on the Epistle by Peter, and others, and nine sermons.
 
-[Volume 2](https://archive.org/details/selectworksmart01colegoog/page/n6/mode/2up)
+[Volume 2 (1826)](https://archive.org/details/selectworksmart01colegoog/page/n6/mode/2up)
 
-[Volume 3](https://archive.org/details/selectworkstrby00luthgoog/page/n3/mode/2up)
+[Volume 3 (1826)](https://archive.org/details/selectworkstrby00luthgoog/page/n3/mode/2up)
 
-[Volume 4](https://books.google.com/books?id=6yBmo80S5DEC&newbks=1&newbks_redir=0&printsec=frontcover#v=onepage&q&f=false) 
+[Volume 4 (1826)](https://books.google.com/books?id=6yBmo80S5DEC&newbks=1&newbks_redir=0&printsec=frontcover#v=onepage&q&f=false) 
 
-### St. Louis Edition
-The St. Louis Edition is a nineteenth century reprinting by the Lutheran Church--Missouri Synod of Walch's eighteenth century collection of Luther's works. Both were published in German, however, [BackToLuther](https://backtoluther.blogspot.com/2022/04/st-louis-edition-digitized-text-now-in.html) has kindly facilitated a machine translation of these works. Naturally, these English translations must be used with some caution, yet they are still a great place to explore Luther's attitude on certain topics or what the context of an event was. THe chief value of this English translation is of course its wide scope.
+### St. Louis Edition (1882-1910)
+The St. Louis Edition is a nineteenth century reprinting by the Lutheran Church--Missouri Synod of Walch's eighteenth century collection of Luther's works. Both were published in German, however, [BackToLuther](https://backtoluther.blogspot.com/2022/04/st-louis-edition-digitized-text-now-in.html) has kindly facilitated a machine translation of these works. Naturally, these English translations must be used with some caution, yet they are still a great place to explore Luther's attitude on certain topics and what the context of an event was. The chief value of this English translation is of course its wide scope.
 
 [Volume 1 (1892)](https://archive.org/details/st-l-01-en)
 
@@ -81,4 +81,15 @@ The St. Louis Edition is a nineteenth century reprinting by the Lutheran Church-
 
 [Volume 23 (1910)](https://archive.org/details/st-l-23-deep-l-en)
 
+### Ohio Edition (1869-1871)
+This is the name I have given these two volumes published from Ohio in the mid-nineteenth century despite them being a collection of Luther's sermons more than anything else. 
 
+[Volume 1 (1869)](https://archive.org/details/drmartinluthersh0002luth/page/n9/mode/1up)
+
+[Second Edition (1884)](https://archive.org/details/Dr.MartinLuthersHouse-postilVol1Ohio1884secondEdition/page/n9/mode/1up) 
+
+[Volume 2 (1871)](https://www.google.com/url?q=https://archive.org/details/drmartinluthersh0002luth_i6o9/page/n6/mode/1up&sa=D&source=docs&ust=1774579108546758&usg=AOvVaw25fMVFo_AABS4pbawAQpJl)
+
+[Second Edition (1884)](https://archive.org/details/Dr.MartinLuthersHouse-postilVol2Ohio1884secondEdition/page/n7/mode/1up)
+
+See also: [_Martin Luther's Church Postil_ (1869)](https://archive.org/details/drmartinluthersc00luth/page/1/mode/1up)

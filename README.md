@@ -170,7 +170,7 @@ Contents: Disputation on Indulgences (1517), Treatise on Baptism (1519), Discuss
 
 ### Letters
 
-Also see volume 21 of the [St. Louis Edition of Luther's works](###Sst.-louis-edition-(1882-1910)).
+Also see volume 21 of the [St. Louis Edition of Luther's works](###st.-louis-edition-(1882-1910)).
 
 _Luther’s Correspondence and Other Contemporary Letters_ by Preserved Smith, vols. 1 and 2
 [_Luther's Letters to Women_ edited by Mary Williams and Edwin Keever (1930)](https://archive.org/details/lutherslettersto00luth/page/n7/mode/2up)

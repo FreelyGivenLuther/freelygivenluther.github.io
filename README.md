@@ -1,5 +1,5 @@
 # Welcome to FreelyGivenLuther!
-We are dedicated to sharing the Reformer's works in English without restriction or cost. Here you can find modern public domain translations of Luther's writings as well as links and bibliographies to other Lutheran resources. 
+We are dedicated to sharing the Reformer's works in English without restriction or cost. Here you can find modern public domain translations of Luther's writings as well as links and bibliographies to other Lutheran resources. We suggest that you buy those resources that are not freely given and sold reciprocally second-hand so that the sin of buying Jesus is not supported institutionally.
 
 ## The Book of Concord
 

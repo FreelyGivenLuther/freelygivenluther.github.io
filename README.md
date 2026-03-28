@@ -253,9 +253,19 @@ _Lutheran Women in Ordained Ministry 1970-1995: Reflections and Perspectives_ ed
 
 _The Evangelizing Church: A Lutheran Contribution_ edited by Richard Bliese and Craig Gelder (Minneapolis: Augsburg Fortress, 2005)
 
+[Guess Who’s Coming to Worship (1989)](https://digitalcommons.luthersem.edu/faculty_articles/123/)
+
+[Engaging Evangelism in the Congregation (2004)](https://digitalcommons.luthersem.edu/faculty_articles/252/)
+
+[The Case for Incorporating Evangelism into Discipleship (2009)](https://digitalcommons.luthersem.edu/ma_theses/21/)
+
+[Worship at the Edges (2007)](https://digitalcommons.luthersem.edu/faculty_articles/246/)
+
 ## Worship
 
 [The Use of the Means of Grace](https://resources.elca.org/worship/the-use-of-the-means-of-grace/) [Spanish](https://resources.elca.org/worship/el-uso-de-los-medios-de-gracia/)
+
+
 
 [Principles of Worship](https://resources.elca.org/worship/principles-for-worship/)
 

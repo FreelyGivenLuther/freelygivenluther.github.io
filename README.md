@@ -240,9 +240,11 @@ _Luther’s Correspondence and Other Contemporary Letters_ by Preserved Smith, v
 
 ## Martin Chemnitz (1522-1586)
 
+There are painfully few public domain or open access English translations of Chemnitz's profound works. A starting point for navigating his works and theology online is [here](https://web.archive.org/web/20220624235537/https://www.angelfire.com/ny4/djw/chemnitz.html)
+
 [_Rome: Examined_ -- Part 1 (2025)](https://wolfmueller.co/rome-examined-part-1-full-text-published/)
 
-## Female Ordination
+## Ordination of Women
 _Lutheran Women in Ordained Ministry 1970-1995: Reflections and Perspectives_ edited by Gloria Bengtson (Minneapolis: Augsburg, 1995)
 
 [Lutheran Council in the USA. The Ordination of Women condensed by Raymond Tiemeyer (1970)](https://womenpriests.org/ecumenism/lutheran2-lutheran-council-in-the-usathe-ordination-of-women-1970/#intro)
@@ -250,6 +252,12 @@ _Lutheran Women in Ordained Ministry 1970-1995: Reflections and Perspectives_ ed
 ## Evangelism
 
 _The Evangelizing Church: A Lutheran Contribution_ edited by Richard Bliese and Craig Gelder (Minneapolis: Augsburg Fortress, 2005)
+
+## Worship
+
+[The Use of the Means of Grace](https://resources.elca.org/worship/the-use-of-the-means-of-grace/) [Spanish](https://resources.elca.org/worship/el-uso-de-los-medios-de-gracia/)
+
+[Principles of Worship](https://resources.elca.org/worship/principles-for-worship/)
 
 ## The Bible
 

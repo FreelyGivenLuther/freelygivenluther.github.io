@@ -267,7 +267,7 @@ _Martin Luther on the Bondage of the Will_ translated by Edward Thomas Vaughan (
 
 [_The Epistles of St. Peter and St. Jude: Preached and Explained_ (1859)](https://archive.org/details/epistlesofstpete00luth/page/n5/mode/2up)
 
-[_Martin Luther’s Preface to the Works of Huss_ (Letters of John Huss, 1846)]
+[_Martin Luther’s Preface to the Works of Huss_ (Letters of John Huss, 1846)](https://archive.org/details/lettersjohnhuss00luthgoog/page/n6/mode/2up)
 
 [_The Spiritual Songs of Martin Luther_ by John Hunt (1853)](https://archive.org/details/spiritualsongsm00luthgoog/page/n8/mode/2up)
 

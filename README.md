@@ -164,6 +164,19 @@ Contents: Disputation on Indulgences (1517), Treatise on Baptism (1519), Discuss
 
 [Volume 6 (1932)](https://archive.org/details/in.ernet.dli.2015.180138)
 
+### Sermons
+
+[_A Selection of the Most Celebrated Sermons of Martin Luther_ (1830)](https://archive.org/details/aselectionmostc00luthgoog/page/n10/mode/2up)
+
+### Letters
+
+Also see volume 21 of the [St. Louis Edition of Luther's works](###St.-Louis Edition-(1882-1910)).
+
+_Luther’s Correspondence and Other Contemporary Letters_ by Preserved Smith, vols. 1 and 2
+[_Luther's Letters to Women_ edited by Mary Williams and Edwin Keever (1930)](https://archive.org/details/lutherslettersto00luth/page/n7/mode/2up)
+[The Letters of Martin Luther (1908)](https://archive.org/details/lettersofmartinl00luth/page/n5/mode/2up)
+
+
 ### Table Talk
 [_Dr. Martin Luther’s Divine Discourses at his Table_ translated by Capt. Henrie Bell (1651)](https://archive.org/details/bim_early-english-books-1641-1700_dris-martini-lutheri-col_luther-martin_1652/page/n2/mode/1up)
 

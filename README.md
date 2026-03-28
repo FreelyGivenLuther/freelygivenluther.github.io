@@ -1,7 +1,7 @@
 # Welcome to FreelyGivenLuther!
 We are dedicated to sharing the Reformer's works in English without restriction or cost. Here you can find modern public domain translations of Luther's writings as well as links and bibliographies to other Lutheran resources. We suggest that you buy those resources that are not freely given and sold reciprocally second-hand so that the sin of buying Jesus is not supported institutionally.
 
-## The Book of Concord
+## The Book of Concord ()
 
 The Three Symbols
 
@@ -22,6 +22,26 @@ The Epitome of Concord
 Formula of Concord -- Solid Declaration
 
 These works have also been formatted into a single volume: _The Book of Concord_ 
+
+See also: 
+
+[The Christian Book of Concord -- Second Edition, Revised (1854)](https://archive.org/details/christianbookofc00henk/page/n5/mode/2up)
+
+[The Book of Concord of the Evangelical Lutheran Church (1911)](https://archive.org/details/thebookofconcord00unknuoft/page/n5/mode/2up)
+
+[Concordia Triglotta (1921)](https://archive.org/details/triglottaconcord0000unse/page/n5/mode/2up)
+
+The Book of Concord: The Confessions of the Evangelical Lutheran Church translated by Theodore Tappert (Fortress Press, 1959)
+
+This new translation was done from the then-recent textual critical edition of the Lutheran Confessions. See below.
+
+_Bekenntnisschriften der evangelisch-lutherischen Kirche_ (1930)
+
+This was the first textual critical edition of the Lutheran Confessions that prompted the new translation by Tappert. 
+
+
+
+The Book of Concord: The Confessions of the Evangelical Lutheran Church translated by Robert Kolb and Timothy Wengert (Fortress Press, 2000)
 
 ## Luther's Works (1483-1546)
 [Luther's Brief Explanations](https://archive.org/details/luthers-brief-explanations).

@@ -1,6 +1,17 @@
 # Welcome to FreelyGivenLuther!
 We are dedicated to sharing the Reformer's works in English without restriction or cost. Here you can find modern public domain translations of Luther's writings as well as links and bibliographies to other Lutheran resources. We suggest that you buy those resources that are not freely given and sold reciprocally second-hand so that the sin of buying Jesus is not supported institutionally.
 
+## New to Lutheranism? 
+
+Check out some of these resources for a nice introduction to Luther's theology and the Lutheran church. They are presented in the recommended order of reading.
+
+The Small Catechism
+
+Luther’s Brief Explanations
+
+The Large Catechism
+
+
 ## The Book of Concord ()
 
 The Three Symbols
@@ -207,7 +218,7 @@ Contents: Disputation on Indulgences (1517), Treatise on Baptism (1519), Discuss
 
 ### Letters
 
-Also see volume 21 of the [St. Louis Edition of Luther's works](###st.-louis-edition-(1882-1910)).
+Also see volume 21 of the St. Louis Edition of Luther's works.
 
 _Luther’s Correspondence and Other Contemporary Letters_ by Preserved Smith, vols. 1 and 2
 [_Luther's Letters to Women_ edited by Mary Williams and Edwin Keever (1930)](https://archive.org/details/lutherslettersto00luth/page/n7/mode/2up)

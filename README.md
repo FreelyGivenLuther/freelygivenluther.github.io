@@ -60,9 +60,6 @@ _The Small Catechism_
 
 _Formula of Concord_
 
-
-
-
 ## Luther's Works (1483-1546)
 [Luther's Brief Explanations](https://archive.org/details/luthers-brief-explanations).
 
@@ -237,7 +234,6 @@ _Luther’s Correspondence and Other Contemporary Letters_ by Preserved Smith, v
 #### Studies
 [_Conversations with Luther: Selections from Recently Published Sources of the Table Talk_ by Perserved Smith](https://archive.org/details/conversationswit00luth/page/n11/mode/1up)
 
-
 ## Martin Chemnitz (1522-1586)
 
 There are painfully few public domain or open access English translations of Chemnitz's profound works. A starting point for navigating his works and theology online is [here](https://web.archive.org/web/20220624235537/https://www.angelfire.com/ny4/djw/chemnitz.html)
@@ -264,8 +260,6 @@ _The Evangelizing Church: A Lutheran Contribution_ edited by Richard Bliese and 
 ## Worship
 
 [The Use of the Means of Grace](https://resources.elca.org/worship/the-use-of-the-means-of-grace/) [Spanish](https://resources.elca.org/worship/el-uso-de-los-medios-de-gracia/)
-
-
 
 [Principles of Worship](https://resources.elca.org/worship/principles-for-worship/)
 

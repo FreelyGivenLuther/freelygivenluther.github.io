@@ -9,7 +9,7 @@ Do you see a mistake? Have a resource to reccommend? Or want to get involved in 
 
 Check out some of these resources for a nice introduction to Luther's theology and the Lutheran church. They are presented in the recommended order of reading.
 
-The Small Catechism
+[The Small Catechism](https://archive.org/details/the-small-catechism-for-printing-at-home/Luther%27s%20Small%20Catechism%20for%20Home%20Printing%20US%20LETTER/mode/2up)
 
 Luther’s Brief Explanations
 

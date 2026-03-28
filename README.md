@@ -45,7 +45,7 @@ The Book of Concord: The Confessions of the Evangelical Lutheran Church translat
 
 [_Confessio Augustana_](https://web.archive.org/web/20070928131713/http://www.reformatio.de/pdf/CALAT-DT.PDF)
 
-[_Apologie_der_Konfessionen_](https://www.glaubensstimme.de/doku.php?id=bekenntnisse:apologie_der_konfessionen)
+[_Apologie der Konfessionen_](https://www.glaubensstimme.de/doku.php?id=bekenntnisse:apologie_der_konfessionen)
 
 [_Die Schmalkaldischen Artikel_](https://web.archive.org/web/20070928131722/http://www.reformatio.de/pdf/SCHMAL1.PDF)
 

@@ -316,6 +316,8 @@ _The Evangelizing Church: A Lutheran Contribution_ edited by Richard Bliese and 
 
 [Strategic Recommendations Report for the ELCA (2025)](https://resources.elca.org/office-of-the-bishop/strategic-recommendations-for-the-elca-from-barna-fuller/)
 
+While limited, check out [this page](https://resources.elca.org/) for some ELCA resources.
+
 ## Lutheran History
 For a family tree of most of the Lutheran denominations in America check out the [the illustration I made](https://archive.org/details/tree-of-american-lutheran-denominations/Tree%20of%20American%20Lutheran%20Denominations%20NO%20GRID..pdf).
 

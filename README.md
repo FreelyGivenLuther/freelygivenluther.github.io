@@ -35,13 +35,30 @@ The Book of Concord: The Confessions of the Evangelical Lutheran Church translat
 
 - This new translation was done from the then-recent textual critical edition of the Lutheran Confessions. See below.
 
-_Bekenntnisschriften der evangelisch-lutherischen Kirche_ (1930)
-
-- This was the first textual critical edition of the Lutheran Confessions that prompted the new translation by Tappert. 
-
-
-
 The Book of Concord: The Confessions of the Evangelical Lutheran Church translated by Robert Kolb and Timothy Wengert (Fortress Press, 2000)
+
+#### _Bekenntnisschriften der evangelisch-lutherischen Kirche_ (1930)
+
+- This was the first textual critical edition of the Lutheran Confessions that prompted the new translation by Tappert. These weblinks are from [the associated Wikipedia page](https://de.wikipedia.org/wiki/Bekenntnisschriften_der_evangelisch-lutherischen_Kirche).
+
+[_Die altkirchlichen Glaubensbekenntnisse_](https://web.archive.org/web/20070627194254/http://reformatio.de:80/bekenntnisse/Altkirchlich.pdf)
+
+[_Confessio Augustana_](https://web.archive.org/web/20070928131713/http://www.reformatio.de/pdf/CALAT-DT.PDF)
+
+[_Apologie_der_Konfessionen_](https://www.glaubensstimme.de/doku.php?id=bekenntnisse:apologie_der_konfessionen)
+
+[_Die Schmalkaldischen Artikel_](https://web.archive.org/web/20070928131722/http://www.reformatio.de/pdf/SCHMAL1.PDF)
+
+_Treatise on the Power and Primacy of the Pope_
+
+_The Small Catechism_
+
+[_Der Große Katechismus_](https://www.ekd.de/Grosser-Katechismus-13200.htm)
+
+_Formula of Concord_
+
+
+
 
 ## Luther's Works (1483-1546)
 [Luther's Brief Explanations](https://archive.org/details/luthers-brief-explanations).

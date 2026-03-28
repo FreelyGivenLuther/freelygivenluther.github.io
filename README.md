@@ -33,11 +33,11 @@ See also:
 
 The Book of Concord: The Confessions of the Evangelical Lutheran Church translated by Theodore Tappert (Fortress Press, 1959)
 
-This new translation was done from the then-recent textual critical edition of the Lutheran Confessions. See below.
+- This new translation was done from the then-recent textual critical edition of the Lutheran Confessions. See below.
 
 _Bekenntnisschriften der evangelisch-lutherischen Kirche_ (1930)
 
-This was the first textual critical edition of the Lutheran Confessions that prompted the new translation by Tappert. 
+- This was the first textual critical edition of the Lutheran Confessions that prompted the new translation by Tappert. 
 
 
 

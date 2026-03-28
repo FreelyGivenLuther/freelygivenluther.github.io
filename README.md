@@ -234,6 +234,30 @@ _Luther’s Correspondence and Other Contemporary Letters_ by Preserved Smith, v
 #### Studies
 [_Conversations with Luther: Selections from Recently Published Sources of the Table Talk_ by Perserved Smith](https://archive.org/details/conversationswit00luth/page/n11/mode/1up)
 
+### Miscellaneous
+
+[_First principles of the Reformation_ (1885) ](https://archive.org/details/firstprincipleso00luth/page/n7/mode/2up)
+
+_Martin Luther on the Bondage of the Will_ translated by Edward Thomas Vaughan (1823)
+
+[_Martin Luther on the Bondage of the Will_ translated by Henry Cole (1823)](https://archive.org/details/bondagewill00colegoog/page/n6/mode/2up)
+
+[_Devotional Readings from Luther's Works for Every Day of the Year_ (1915)](https://archive.org/details/devotionalreadin0000luth/page/n5/mode/2up)
+
+[_Five Minutes Daily with Luther_ (1926)](https://archive.org/details/fiveminutesdaily00luth/page/n7/mode/2up)
+
+[_The Epistles of St. Peter and St. Jude: Preached and Explained_ (1859)](https://archive.org/details/epistlesofstpete00luth/page/n5/mode/2up)
+
+[_Martin Luther’s Preface to the Works of Huss_ (Letters of John Huss, 1846)]
+
+[_The Spiritual Songs of Martin Luther_ by John Hunt (1853)](https://archive.org/details/spiritualsongsm00luthgoog/page/n8/mode/2up)
+
+[_Luther On The Sacraments_ (1853)](https://archive.org/details/isbn_9781104996918/page/n4/mode/1up)
+
+[_Luther in England_ (1841)](https://archive.org/details/bub_gb_5pgHAAAAQAAJ/page/n5/mode/2up)
+
+[_A Manual of the Book of Psalms_ translated by Henry Cole (1837)](https://archive.org/details/amanualbookpsal00luthgoog/page/n6/mode/2up)
+
 ## Martin Chemnitz (1522-1586)
 
 There are painfully few public domain or open access English translations of Chemnitz's profound works. A starting point for navigating his works and theology online is [here](https://web.archive.org/web/20220624235537/https://www.angelfire.com/ny4/djw/chemnitz.html)

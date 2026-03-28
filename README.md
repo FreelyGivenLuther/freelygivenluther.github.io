@@ -23,7 +23,8 @@ Formula of Concord -- Solid Declaration
 
 These works have also been formatted into a single volume: _The Book of Concord_ 
 
-See also: 
+
+#### See also: 
 
 [The Christian Book of Concord -- Second Edition, Revised (1854)](https://archive.org/details/christianbookofc00henk/page/n5/mode/2up)
 
@@ -249,6 +250,16 @@ _Lutheran Women in Ordained Ministry 1970-1995: Reflections and Perspectives_ ed
 ## Evangelism
 
 _The Evangelizing Church: A Lutheran Contribution_ edited by Richard Bliese and Craig Gelder (Minneapolis: Augsburg Fortress, 2005)
+
+## The Bible
+
+[Lutherans in the United States, 1930-1960: Searching for the "Center" (1998)](https://digitalcommons.luthersem.edu/faculty_articles/223/)
+
+[What Lutherans Think About the Bible]([https://www.bookoffaith.org/pdf/What%20Lutherans%20Think%20About%20the%20Bible-3.pdf](https://web.archive.org/web/20250502111423/https://www.bookoffaith.org/pdf/What%20Lutherans%20Think%20About%20the%20Bible-3.pdf))
+
+## ELCA (1988- )
+
+[Strategic Recommendations Report for the ELCA (2025)](https://resources.elca.org/office-of-the-bishop/strategic-recommendations-for-the-elca-from-barna-fuller/)
 
 ## Lutheran History
 For a family tree of most of the Lutheran denominations in America check out the [the illustration I made](https://archive.org/details/tree-of-american-lutheran-denominations/Tree%20of%20American%20Lutheran%20Denominations%20NO%20GRID..pdf).

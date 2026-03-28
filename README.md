@@ -1,6 +1,8 @@
 # Welcome to FreelyGivenLuther!
 We are dedicated to sharing the Reformer's works in English without restriction or cost. Here you can find modern public domain translations of Luther's writings as well as links and bibliographies to other Lutheran resources. We suggest that you buy those resources that are not freely given and sold reciprocally second-hand so that the sin of buying Jesus is not supported institutionally.
 
+Do you see an mistake? Or just want to get involved in freely giving Luther's works and Lutheran resources? Please reach out! Just send an email to FreelyGivenLuther@gmail.com. I would be more than happy to hear from you.
+
 ## New to Lutheranism? 
 
 Check out some of these resources for a nice introduction to Luther's theology and the Lutheran church. They are presented in the recommended order of reading.

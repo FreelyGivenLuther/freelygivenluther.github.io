@@ -14,6 +14,8 @@ The Large Catechism
 
 ## The Book of Concord ()
 
+It is appropriate to begin this page with the Lutheran Confessions as they have principally been the unifying and dividing documents throughout Lutheran history in America. They comment on many of the topics below, so it is recommended that when perusing those works that you also return back to the earliest Lutheran theologians and understandings.
+
 The Three Symbols
 
 The Augsburg Confession

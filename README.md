@@ -55,6 +55,9 @@ The Book of Concord: The Confessions of the Evangelical Lutheran Church translat
 
 The Book of Concord: The Confessions of the Evangelical Lutheran Church translated by Robert Kolb and Timothy Wengert (Fortress Press, 2000)
 
+#### Studies
+[_The Augsburg Confession_ by M. Reu (1930)](https://archive.org/details/augsburgconfessi0000reuj/page/n5/mode/2up)
+
 #### _Bekenntnisschriften der evangelisch-lutherischen Kirche_ (1930)
 
 - This was the first textual critical edition of the Lutheran Confessions that prompted the new translation by Tappert. These weblinks are from [the associated Wikipedia page](https://de.wikipedia.org/wiki/Bekenntnisschriften_der_evangelisch-lutherischen_Kirche).
@@ -312,6 +315,8 @@ _The Evangelizing Church: A Lutheran Contribution_ edited by Richard Bliese and 
 
 ## The Bible
 
+[_Luther’s German Bible_ by M. Reu (1934)](https://archive.org/details/luthersgermanbib00reuj/page/n3/mode/2up)
+
 [Lutherans in the United States, 1930-1960: Searching for the "Center" (1998)](https://digitalcommons.luthersem.edu/faculty_articles/223/)
 
 [What Lutherans Think About the Bible]([https://www.bookoffaith.org/pdf/What%20Lutherans%20Think%20About%20the%20Bible-3.pdf](https://web.archive.org/web/20250502111423/https://www.bookoffaith.org/pdf/What%20Lutherans%20Think%20About%20the%20Bible-3.pdf))
@@ -320,7 +325,7 @@ _The Evangelizing Church: A Lutheran Contribution_ edited by Richard Bliese and 
 
 [Strategic Recommendations Report for the ELCA (2025)](https://resources.elca.org/office-of-the-bishop/strategic-recommendations-for-the-elca-from-barna-fuller/)
 
-While limited, check out [this page](https://resources.elca.org/) for some ELCA resources.
+- While limited, check out [this page](https://resources.elca.org/) for some ELCA resources.
 
 ## Lutheran History
 For a family tree of most of the Lutheran denominations in America check out the [the illustration I made](https://archive.org/details/tree-of-american-lutheran-denominations/Tree%20of%20American%20Lutheran%20Denominations%20NO%20GRID..pdf).
@@ -331,13 +336,9 @@ _Luther and His Times: The Reformation from a New Perspective_ by Ernest Schwieb
 
 [_Luther and the Lutheran Church 1483-1960_ by Altman Swihart (1960)](https://archive.org/details/lutherlutheranch00swih/page/n7/mode/2up)
 
-This work is in the public domain and covers the years 1483-1960.
+- This work covers the years 1483-1960.
 
 [_The Confessional History of the Lutheran Church_ by Richard (1909)](https://archive.org/details/cu31924084658248/page/n7/mode/2up)
-
-[_Luther’s German Bible_ by M. Reu (1934)](https://archive.org/details/luthersgermanbib00reuj/page/n3/mode/2up)
-
-[_The Augsburg Confession_ by M. Reu (1930)](https://archive.org/details/augsburgconfessi0000reuj/page/n5/mode/2up)
 
 [_A Basic History of Lutheranism in America_ by Abel Ross Wentz (1955)](https://archive.org/details/basichistoryoflu00went_0/page/n8/mode/1up)
 

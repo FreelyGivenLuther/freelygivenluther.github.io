@@ -83,11 +83,11 @@ _Formula of Concord_
 - In his Brief Explanations Luther concisely explains the sum and substance of Christ's teaching. He first addresses the accusation of the Law in the Ten Commandments. Luther then shows how the Apostles' Creed tells us whom help comes from. Finally, the Lord's Prayer is a model prayer for seeking grace.
 
 ### Luther's Works: The Freely Given Edition (2025- )
-[Volume 1519<sup>I</sup>: _Tessaradecas Consolatoria_](https://archive.org/details/luthers-works-freely-given-edition-volume-1/LuthersWorksFreelyGiven1519Part1Updated/)
+[Volume 1519<sup>I</sup>: _Tessaradecas Consolatoria_(2025)](https://archive.org/details/luthers-works-freely-given-edition-volume-1/LuthersWorksFreelyGiven1519Part1Updated/)
 
 - This inaugural volume of Luther's Works: The Freely Given Edition is dedicated to a deeper understanding of _The Fourteen of Consolation_ (1519) and answers new questions of influence, timing, and language by its thorough introduction and notes.
 
-[PREVIEW: The Heidelberg Disputation](https://archive.org/details/luthers-worksthe-freely-given-edition-heidelberg-disputation-unpublished-preview/mode/2up)
+[PREVIEW: The Heidelberg Disputation (2026)](https://archive.org/details/luthers-worksthe-freely-given-edition-heidelberg-disputation-unpublished-preview/mode/2up)
 
 - This is an unpublished preview of Luther's Heidelberg Disputation that will be included in the future volume of Luther's Works: The Freely Given Edition dedicated to his works of 1518. It is included here so that access to this translation is not significantly delayed by the translation and editing of the other works.
 

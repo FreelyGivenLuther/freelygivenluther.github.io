@@ -98,19 +98,19 @@ _Formula of Concord_
 ### Henry Cole’s Edition (1826)
 [Volume 1 (1826)](https://archive.org/details/selectworksmart00colegoog/page/n6/mode/2up)
 
-Contents: Luther's _Concerning Christian Liberty_, Exposition of the Fifty-First Psalm, Selections from his Preface to Romans, Commentary on Galatians, Commentary on the Epistle by Peter, and others, and nine sermons.
+- Contents: Luther's _Concerning Christian Liberty_, Exposition of the Fifty-First Psalm, Selections from his Preface to Romans, Commentary on Galatians, Commentary on the Epistle by Peter, and others, and nine sermons.
 
 [Volume 2 (1826)](https://archive.org/details/selectworksmart01colegoog/page/n6/mode/2up)
 
-Contents: Luther's Exposition of John 17, The Consolatory Tesseradecad (The Fourteen of Consolation/_Tesseradecas Consolatoria_), On the Last Words of David (2 Sam. 23:1-7), The Three Creeds or Confessions of the Christian Faith, Explanation of the Lord's Prayer for the Simple Among the People, A Treatise concerning Good Works. 
+- Contents: Luther's Exposition of John 17, The Consolatory Tesseradecad (The Fourteen of Consolation/_Tesseradecas Consolatoria_), On the Last Words of David (2 Sam. 23:1-7), The Three Creeds or Confessions of the Christian Faith, Explanation of the Lord's Prayer for the Simple Among the People, A Treatise concerning Good Works. 
 
 [Volume 3 (1826)](https://archive.org/details/selectworkstrby00luthgoog/page/n3/mode/2up)
 
-Contents: Commentary on the Twenty-Two Psalms -- Part 1 (Pss. 1-11)
+- Contents: Commentary on the Twenty-Two Psalms -- Part 1 (Pss. 1-11)
 
 [Volume 4 (1826)](https://books.google.com/books?id=6yBmo80S5DEC&newbks=1&newbks_redir=0&printsec=frontcover#v=onepage&q&f=false) 
 
-Contents: Commentary on the Twenty-Two Psalms -- Part 2 (Pss. 12-22), Commentary upon the Second Psalm
+- Contents: Commentary on the Twenty-Two Psalms -- Part 2 (Pss. 12-22), Commentary upon the Second Psalm
 
 ### Ohio Edition (1869-1871)
 This is the name I have given these two volumes published from Ohio in the mid-nineteenth century despite them being a collection of Luther's sermons more than anything else. 
